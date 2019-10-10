@@ -1,5 +1,3 @@
-# Project 3 - *Twitter*
-
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
@@ -26,6 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/W5UYB6EqrQQcE2EMyX/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+# Project 3 - *Twitter*
 
 **Twitter** is a basic twitter app to read your tweets.
 
